@@ -10,7 +10,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px"/>
- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="50px"/>
+# <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="50px"/>
  <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="50px"/>
 
 </div>
