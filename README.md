@@ -6,6 +6,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="display:flex;justify-content:space-around;align-items: flex-end;">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50xp" />
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px"/>
