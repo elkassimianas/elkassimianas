@@ -8,21 +8,6 @@ Basically, I like keeping both my **mind and body active**. 🧠💪
 
 ---
 
-### 📊 GitHub at a Glance
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=elkassimianas&show_icons=true&theme=radical)  
-
----
-
-### 📬 Let’s Connect
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/elkassimianas)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-el-kassimi/)  
-
----
-
-✨ *“Code. Solve. Create. Repeat.”*  
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="display:flex;justify-content:space-around;align-items: flex-end;">
@@ -36,5 +21,14 @@ Basically, I like keeping both my **mind and body active**. 🧠💪
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px"/>
  <img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="50px"/>
 
+---
+
+### 📬 Let’s Connect
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/elkassimianas)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-el-kassimi/)  
+
+---
+
+✨ *“Code. Solve. Create. Repeat.”*  
 
 </div>
