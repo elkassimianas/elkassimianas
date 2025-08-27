@@ -1,5 +1,25 @@
-### Hi there 👋
+### Hey there, I’m Anas! 👋
 
+I enjoy coding in **Python**, **JavaScript** & **C**, and I’m diving into **Web Development** while dreaming about **AI/ML adventures** in the future. 🚀  
+I’m passionate about **building apps that solve real problems and make a meaningful impact**.  
+
+Outside the screen, I’m into **chess, billiards, calisthenics, and swimming**.  
+Basically, I like keeping both my **mind and body active**. 🧠💪  
+
+---
+
+### 📊 GitHub at a Glance
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=elkassimianas&show_icons=true&theme=radical)  
+
+---
+
+### 📬 Let’s Connect
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/elkassimianas)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-el-kassimi/)  
+
+---
+
+✨ *“Code. Solve. Create. Repeat.”*  
 
 
 
